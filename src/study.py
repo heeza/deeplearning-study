@@ -1,5 +1,6 @@
 import numpy as np 
 from sympy import Symbol, solve
+import matplotlib.pyplot as plt
 
 a = np.array([2, 2])
 b = np.array([2, -1])
